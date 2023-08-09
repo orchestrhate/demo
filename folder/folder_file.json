@@ -1,0 +1,7 @@
+{
+  "demo_json": {
+      "name": "demo",
+      "type": "json",
+      "location": "folder"
+  }
+}
